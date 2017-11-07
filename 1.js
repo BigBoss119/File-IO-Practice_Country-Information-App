@@ -1,7 +1,7 @@
-const fs = require("fs")
+var fs = require("fs")
 let country = process.argv[2];
 
-// fs.readFile('countries.json', function(err, data) {
+// fs.readFile('countries.json.txt', function(err, data) {
 //             if (err) {
 //                 throw err;
 //             }
